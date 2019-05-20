@@ -1,0 +1,18 @@
+d:\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+d:\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+d:\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+d:\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+d:\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+d:\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+d:\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+d:\documents\visual studio 2012\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\c# 自动日常巡检\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+H:\c# 自动日常巡检\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+H:\c# 自动日常巡检\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+H:\c# 自动日常巡检\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+H:\c# 自动日常巡检\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+H:\c# 自动日常巡检\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+H:\c# 自动日常巡检\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+H:\c# 自动日常巡检\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+H:\c# 自动日常巡检\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
